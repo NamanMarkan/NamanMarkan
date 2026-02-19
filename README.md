@@ -1,36 +1,79 @@
-<h1 align="center">Hi, My Name Is Naman Markan</h1>
-<h3 align="center">A passionate Salesforce & Marketing Developer from India</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanmarkan&label=Profile%20views&color=0e75b6&style=flat" alt="namanmarkan" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanmarkan" alt="namanmarkan" /></a> </p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-- 🔭 I’m currently working on **Marketing Cloud**
+###
 
-- 🌱 I’m currently learning **Frontend & Backend Developement**
+<h1 align="center">hey there 👋</h1>
 
-- 👯 I’m looking to collaborate on **Building AI Agents**
+###
 
-- 🤝 I’m looking for help with **Open AI, Cloud, Full Stack Developements**
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 👨‍💻 All of my projects are available at [trailblazer.me/id/namanmarkan](trailblazer.me/id/namanmarkan)
+###
 
-- 💬 Ask me about **Salesforce And Marketing Cloud**
+<p align="left">I'm Naman Markan from Delhi India,<br><br>Highlights<br>📌 IT Experience of around 8 years.<br>📌 Consultant, Manager, and Administrator for Salesforce CRM with expertise in Salesforce & Marketing Cloud customisation, data migration, and integration of various 3rd-party tools.<br>📌 An administrator with experience in ticketing tools (Service Now, Jira) and other platforms (Atlassian, Confluence, Tempo, Asana & Microsoft 365).<br>📌 Experienced in leading Salesforce Marketing Cloud implementations, designing automated marketing journeys, and campaigns.<br>📌 Proven ability to analyse complex business requirements, develop scalable Salesforce solutions, and enhance data management and compliance.<br><br>Recognition<br>⭐ Selected as Answers Leader in the Trailblazer Community Forum by Salesforce in 2022<br>⭐ Selected as Rising Star in the Trailblazer Community Forum by Salesforce in 2022<br>⭐ Selected as a Group leader for Trailblazer Community Salesforce Admin Group, Gwalior in 2023<br>⭐ Honoured as a Judge for Pinnacle, a flagship techno-managerial event at ABV-IIITM in 2024<br>⭐ Honoured as a Panellist in INNOVA24 by GDG, at IIITD in 2025<br>⭐ Selected as a Chapter Director for CMX Connect Gwalior in 2025<br>⭐Founded The Fundamental Community in 2026<br><br>Trailblazer exertion<br>✅ A Project team Leader for Commons Community Sprints by Salesforce<br>✅ A Mentor in Mentorship Circle & 1:1 Mentorship in Trailblazer Community by Salesforce<br>✅ A Volunteer for Non-Profit Organisations and Trailblazer Community Groups<br>✅ A Speaker & an Emcee for Trailblazer Community Events<br><br>Recent Speaking Engagement<br>🚨"Salesforce Certification, Community Engagement & Professional Growth" - LinkedIn Live by Forcetalk<br>🚨"Insights on Transformative journey from Project Coordinator to Salesforce" - Salesforce Testing Guy🚨"Einstein Prediction Builder in Salesforce" - Nimytech<br>🚨"A Career in Salesforce" - by TIC at ABVIIITM<br>🚨"Salesforce Fundamentals" at Vikrant University<br>🚨"Harnessing AI with AgentForce" at INNOVA Delhi event by the Google Developer Group🚨"Salesforce Workshop" at GLA University<br>🚨"Leadership Journey" - by Akash Mishra<br>🚨"Become an Agentblazer" - by Salesforce<br>🚨"Sales Cloud Agentforce Workshop" - Smart Bridge National AI Workshop <br>🚨"Agentic AI Workshop" - Prestige Institute of Management and Research<br><br>Course Covered<br>🌠"Prepare for your Salesforce Business Analyst Credential" - YouTube<br><br>Ongoing Progress<br>🎉  Trails, Trailhead Quest, Seize the Trails, Superbadges, Super Sets & Certifications<br>🙌  Trailblazer Community Events, Dreamin's, and Webinars<br>🔍  Salesforce Products Explorations and giving back to the community</p>
 
-- 📫 Reach me at **namanmarkan108@gmail.com**
+###
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/namanmarkan/](https://www.linkedin.com/in/namanmarkan/)
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/namanmarkan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namanmarkan/" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamanMarkan&show_icons=true&locale=en&layout=compact" alt="NamanMarkan" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NamanMarkan&show_icons=true&locale=en" alt="NamanMarkan" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanMarkan&" alt="NamanMarkan" /></p>
+###
