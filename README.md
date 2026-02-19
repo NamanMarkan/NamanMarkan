@@ -13,16 +13,17 @@
 
 - 🤝 I’m looking for help with **Open AI, Cloud, Full Stack Developements**
 
-- 👨‍💻 All of my projects are available at [trailhead.com/in/namanmarkan](trailhead.com/in/namanmarkan)
+- 👨‍💻 All of my projects are available at [trailblazer.me/id/namanmarkan](trailblazer.me/id/namanmarkan)
 
 - 💬 Ask me about **Salesforce And Marketing Cloud**
 
 - 📫 Reach me at **namanmarkan108@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/namanmarkan/](https://www.linkedin.com/in/namanmarkan/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lovnaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovnaman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/namanmarkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanmarkan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/namanmarkan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namanmarkan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanmarkan&show_icons=true&locale=en&layout=compact" alt="namanmarkan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanmarkan&show_icons=true&locale=en" alt="namanmarkan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanmarkan&" alt="namanmarkan" /></p>
